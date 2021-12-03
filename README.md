@@ -19,19 +19,19 @@ Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, sci
 * Christopher Miranda Santos 
   RA: 2218106376
   
-  Giovana Pereira Rocha 
+* Giovana Pereira Rocha 
   RA: 2218107985
 
-  Gabriel Dias da Rocha 
+* Gabriel Dias da Rocha 
   RA : 2217115163
 
-  Jhonata dos Santos Araujo 
+* Jhonata dos Santos Araujo 
   RA : 2217103618
 
-  Kaio do Valle Pereira 
+* Kaio do Valle Pereira 
   RA : 2220105277
 
-  Kayque Araujo Souza 
+* Kayque Araujo Souza 
   RA: 2218108969
 
 ## Conteúdo:
